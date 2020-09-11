@@ -1,7 +1,7 @@
-## Steps :mag:
+## 요청 기능 :mag:
 
 
-## Description :memo:
+## 기능에 대한 상세 설명 :memo:
 
 
-## Screenshot :camera:
+## 요청 기능의 이미지 혹은 스크린샷 :camera:
